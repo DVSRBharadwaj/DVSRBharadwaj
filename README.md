@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Bharadwaj, and I'm a Final year student of CSE-AIML interested in all things Python & Data Science!
+My name is Bharadwaj, and I'm a Final year student of CSE-AIML interested in all things about Python & Data Science!
 
 - 👨‍💻 I recently built an RAG model using Pinecone & Cohere, check it out [here](https://github.com/DVSRBharadwaj/RAG-using-Pinecone-and-Cohere)
 - 🌱 I’m currently learning Generative AI and LLMs
